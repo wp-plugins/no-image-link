@@ -1,17 +1,18 @@
 === No Image Link ===
-Contributors: scottwerner
-Tags: image, images, link, no, default
+Contributors: Scott Werner
+Donate Link: http://scottwernerdesign.com/donate/
+Tags: image, images, link, no, none, File URL, URL, default, insert
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Defaults the Image Link option when adding a photo to none.
+Defaults the Image Link option to 'none' when adding a picture to a page or post.
 
 == Description ==
 
-Defaults the Image Link option when adding a photo to none.
+Defaults the Image Link option to 'none' when adding a picture to a page or post.
 
 == Installation ==
 
@@ -29,3 +30,5 @@ Nope. It's ready to go right out of the box.
 When adding a photo, under the 'Image Link' option, choose 'File URL'
 
 == Changelog ==
+
+== Upgrade Notice ==

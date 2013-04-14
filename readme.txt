@@ -32,4 +32,4 @@ When adding a photo, under the 'Image Link' option, choose 'File URL'
 == Changelog ==
 
 = 1.1 =
-*Updated the WordPress version it is compatible to.
+* Updated the WordPress version it is compatible to.

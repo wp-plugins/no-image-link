@@ -30,10 +30,6 @@ Nope. It's ready to go right out of the box.
 When adding a photo, under the 'Image Link' option, choose 'File URL'
 
 == Changelog ==
-<<<<<<< .mine
 
 = 1.1 =
-*Updated the WordPress version it is comparable to.=======
-
-== Upgrade Notice ==
->>>>>>> .r697115
+*Updated the WordPress version it is compatible to.

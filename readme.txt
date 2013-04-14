@@ -3,8 +3,8 @@ Contributors: Scott Werner
 Donate Link: http://scottwernerdesign.com/donate/
 Tags: image, images, link, no, none, File URL, URL, default, insert
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -30,5 +30,10 @@ Nope. It's ready to go right out of the box.
 When adding a photo, under the 'Image Link' option, choose 'File URL'
 
 == Changelog ==
+<<<<<<< .mine
+
+= 1.1 =
+*Updated the WordPress version it is comparable to.=======
 
 == Upgrade Notice ==
+>>>>>>> .r697115

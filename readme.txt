@@ -1,5 +1,5 @@
 === No Image Link ===
-Contributors: Scott Werner
+Contributors: scottwerner
 Donate Link: http://scottwernerdesign.com/donate/
 Tags: image, images, link, no, none, File URL, URL, default, insert
 Requires at least: 3.0.1
